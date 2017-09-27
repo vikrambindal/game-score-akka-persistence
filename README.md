@@ -1,0 +1,1 @@
+# game-score-akka-persistence
